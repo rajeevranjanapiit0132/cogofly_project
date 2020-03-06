@@ -1,0 +1,19 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: [localhost:8000] Password Reset E-mail
+From: webmaster@localhost
+To: salumpatrick1404@gmail.com
+Date: Tue, 03 Mar 2020 07:50:29 -0000
+Message-ID: <158322182911.21248.13102315172755144198@batman>
+
+Hello from localhost:8000!
+
+You're receiving this e-mail because you or someone else has requested a password for your user account.
+It can be safely ignored if you did not request a password reset. Click the link below to reset your password.
+
+http://localhost:8000/accounts/password/reset/key/2-5eh-10076ea7d7d7bd007946/
+
+Thank you for using localhost:8000!
+localhost:8000
+-------------------------------------------------------------------------------
